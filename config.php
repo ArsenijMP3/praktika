@@ -1,6 +1,6 @@
 <?php
 // Путь к вашему файлу .accdb
-$database_file = "baza.accdb";
+$database_file = "base.accdb";
 
 // Строка подключения (DSN) для драйвера Access
 $dsn = "odbc:Driver={Microsoft Access Driver (*.mdb, *.accdb)};Dbq=$database_file;";
